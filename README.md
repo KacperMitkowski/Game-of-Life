@@ -20,10 +20,10 @@ The game starts with a blank board filled with blue balls whose coordinates come
 * JavaFx
 
 ## How it works?
-![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_gif)<br />
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_gif.gif)<br />
 
 ## Screenshots:
 Start screen:<br /> 
-![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_1_gif)
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_1.png)
 A piece of source code:
-![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_3_gif)
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_3.png)
