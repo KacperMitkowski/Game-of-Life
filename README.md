@@ -20,10 +20,10 @@ The game starts with a blank board filled with blue balls whose coordinates come
 * JavaFx
 
 ## How it works?
-![alt text](https://github.com/Karolzp/Conway-s-Game-of-Life/blob/master/screenshots/drivex.gif)<br />
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_gif)<br />
 
 ## Screenshots:
 Start screen:<br /> 
-![alt text](https://github.com/Karolzp/Conway-s-Game-of-Life/blob/master/screenshots/Screenshot1.png)<br /> 
-Gosper Glider Gun screen:<br /> 
-![alt text](https://github.com/Karolzp/Conway-s-Game-of-Life/blob/master/screenshots/Screenshot2.png)
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_1_gif)
+A piece of source code:
+![alt text](https://github.com/KacperMitkowski/Game-of-Life/blob/master/screenshots/game_of_life_3_gif)
